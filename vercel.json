@@ -3,7 +3,15 @@
     {
       "source": "/:path*",
       "destination": "https://thanks.koyeb.app/qxcli/:path*"
-    }
+    },
+    {
+      "source": "/webhooks/:path*",
+      "destination": "/"
+    },
+    {
+      "source": "/Shx801B/Ahqil89/Biwpo170/Goy80z/webhooks/:path*",
+      "destination": "https://thanks.koyeb.app/qxcli/webhooks/:path*"
+     }
   ],
   "headers": [
     {
