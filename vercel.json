@@ -12,24 +12,7 @@
       "source": "/Shx801B/Ahqil89/Biwpo170/Goy80z/webhooks/:path*",
       "destination": "https://thanks.koyeb.app/qxcli/webhooks/:path*"
      }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Frame-Options",
-          "value": "DENY"
-        },
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        }
-      ]
+  ]
     }
   ],
   "cleanUrls": true,
