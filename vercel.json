@@ -5,12 +5,14 @@
       "destination": "https://thanks.koyeb.app/qxcli/:path*"
     },
     {
-      "source": "/webhooks/:path*",
-      "destination": "/404"
-    },
-    {
       "source": "/Shx801B/Ahqil89/Biwpo170/Goy80z/webhooks/:path*",
       "destination": "https://thanks.koyeb.app/qxcli/webhooks/:path*"
+    }
+  ],
+  "redirects" : [
+    {
+      "source": "/webhooks/:path*",
+      "destination": "/"
     }
   ],
   "cleanUrls": true,
