@@ -6,7 +6,7 @@
     },
     {
       "source": "/webhooks/:path*",
-      "destination": "/"
+      "destination": "/404"
     },
     {
       "source": "/Shx801B/Ahqil89/Biwpo170/Goy80z/webhooks/:path*",
